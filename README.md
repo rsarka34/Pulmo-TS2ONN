@@ -17,6 +17,11 @@ Pulmonary disorders (PDs) are one of the substantial hazards to human life, whic
 - ICBHI Dataset: [![Paper Link](https://img.shields.io/badge/ICBHI%20Data-BHI%20Challenge-green)](https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge)
 - KAUH Dataset: [![Paper Link](https://img.shields.io/badge/KAUH%20Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/jwyy9np4gv/3)
 - RespiratoryDatabase@TR: [![Paper Link](https://img.shields.io/badge/RD%20@TR-Mendeley%20Data-red)](https://data.mendeley.com/datasets/p9z4h98s6j/1)
+![image](https://github.com/user-attachments/assets/6e4816eb-2860-4c31-bacf-c5e240e968b8)
+
+# Performance
+![image](https://github.com/user-attachments/assets/a8ce5581-48b1-4f5c-859e-5b89bca8213f)
+
 
 # Cite as
 A. Roy, U. Satija and S. Karmakar, "Pulmo-TS2ONN: A Novel Triple Scale Self Operational Neural Network for Pulmonary Disorder Detection Using Respiratory Sounds," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024, Art no. 6502812, doi: 10.1109/TIM.2024.3378206.
