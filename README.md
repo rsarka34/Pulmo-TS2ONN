@@ -18,3 +18,17 @@ Pulmonary disorders (PDs) are one of the substantial hazards to human life, whic
 - KAUH Dataset: [![Paper Link](https://img.shields.io/badge/KAUH%20Data-Mendeley%20Data-red)](https://data.mendeley.com/datasets/jwyy9np4gv/3)
 - RespiratoryDatabase@TR: [![Paper Link](https://img.shields.io/badge/RD%20@TR-Mendeley%20Data-red)](https://data.mendeley.com/datasets/p9z4h98s6j/1)
 
+# Cite as
+A. Roy, U. Satija and S. Karmakar, "Pulmo-TS2ONN: A Novel Triple Scale Self Operational Neural Network for Pulmonary Disorder Detection Using Respiratory Sounds," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024, Art no. 6502812, doi: 10.1109/TIM.2024.3378206.
+
+```bibtex
+@ARTICLE{10473755,
+  author={Roy, Arka and Satija, Udit and Karmakar, Saurabh},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Pulmo-TS2ONN: A Novel Triple Scale Self Operational Neural Network for Pulmonary Disorder Detection Using Respiratory Sounds}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-12},
+  keywords={Databases;Lung;Chronic obstructive pulmonary disease;Asthma;Pneumonia;Neural networks;Diseases;Auscultation measurements;classification;pulmonary disorders (PDs);respiratory sounds (RSs);self-operational neural network (SONN)},
+  doi={10.1109/TIM.2024.3378206}}
