@@ -4,6 +4,7 @@
 
 **Authors: Arka Roy, Udit Satija**
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/Pulmo-TS2ONN/blob/main/model/Pulmo-TS2ONN.ipynb)
 [![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-blue)](https://ieeexplore.ieee.org/abstract/document/10473755)  
 
 # Abstarct
