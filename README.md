@@ -25,7 +25,7 @@ Pulmonary disorders (PDs) are one of the substantial hazards to human life, whic
 
 
 # Cite as
-A. Roy, U. Satija and S. Karmakar, "Pulmo-TS2ONN: A Novel Triple Scale Self Operational Neural Network for Pulmonary Disorder Detection Using Respiratory Sounds," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024, Art no. 6502812, doi: 10.1109/TIM.2024.3378206.
+A. Roy, U. Satija and S. Karmakar, "Pulmo-TS2ONN: A Novel Triple Scale Self Operational Neural Network for Pulmonary Disorder Detection Using Respiratory Sounds," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-12, 2024, Art no. 6502812, doi: 10.1109/TIM.2024.3378206.
 
 ```bibtex
 @ARTICLE{10473755,
