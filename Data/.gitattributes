@@ -2,3 +2,4 @@
 MFCCs filter=lfs diff=lfs merge=lfs -text
 Mfccs filter=lfs diff=lfs merge=lfs -text
 Melspecs filter=lfs diff=lfs merge=lfs -text
+CQTs filter=lfs diff=lfs merge=lfs -text
